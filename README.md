@@ -7,5 +7,5 @@ Curso       : 2023/24
 Descripción : Desarrollo de unha secuencia en arduino con RGB Led
 Requisitos  : WOKWI, Arduino, BreadBoard
 Tiempo      : 8 horas
-
-> Enlace de interes: [**Project**](https://wokwi.com/projects/390979440359308289)                
+```
+  > Enlaces de interés: [**Project**](https://wokwi.com/projects/390979440359308289)            
